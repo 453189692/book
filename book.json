@@ -1,0 +1,19 @@
+{
+  "language":"zh-hans",
+  "title":"越秀养老功课",
+  "author":"yaxuan",
+  "description":"针对越秀养老项目的知识补充",
+  "theme-default":{
+    "showLevel":true
+  },
+  "plugins":["page-treeview","summary",
+    "toggle-chapters","code",
+    "sectionx","pageview-count",
+    "back-to-top-button",
+    "-lunr","-search","search-pro"],
+  "pluginsConfig":{ 
+    "code":{
+      "copyButtons":false
+    }
+  }
+}
