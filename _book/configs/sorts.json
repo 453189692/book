@@ -1,0 +1,31 @@
+{
+    "": [
+        "summary.md", 
+        "readme.md", 
+        "tool.md", 
+        "_book", 
+        "docs", 
+        "node_modules"
+    ], 
+    "__positions": {
+        "tool.md": 3, 
+        "summary.md": 1, 
+        "_book": 4, 
+        "docs": 5, 
+        "node_modules": 6, 
+        "docs/\u9700\u6c42\u68b3\u7406.md": 5001, 
+        "readme.md": 2
+    }, 
+    "__raw_positions": {
+        "tool.md": 3, 
+        "summary.md": 1, 
+        "_book": 4, 
+        "docs": 5, 
+        "node_modules": 6, 
+        "docs/\u9700\u6c42\u68b3\u7406.md": 1, 
+        "readme.md": 2
+    }, 
+    "docs": [
+        "\u9700\u6c42\u68b3\u7406.md"
+    ]
+}
